@@ -126,3 +126,6 @@ outTmp/
 /kotlin-native/dist
 kotlin-ide/
 *.jar
+
+# Own stuff
+*input.txt
